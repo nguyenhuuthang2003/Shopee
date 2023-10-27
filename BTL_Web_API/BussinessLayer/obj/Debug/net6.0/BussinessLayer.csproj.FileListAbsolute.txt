@@ -1,0 +1,34 @@
+D:\Bài kiểm tra\BTL_WEB_API\BTL_WEB_API_ADMIN\BussinessLayer\obj\Debug\net6.0\BussinessLayer.csproj.AssemblyReference.cache
+D:\Bài kiểm tra\BTL_WEB_API\BTL_WEB_API_ADMIN\BussinessLayer\obj\Debug\net6.0\BussinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bài kiểm tra\BTL_WEB_API\BTL_WEB_API_ADMIN\BussinessLayer\obj\Debug\net6.0\BussinessLayer.AssemblyInfoInputs.cache
+D:\Bài kiểm tra\BTL_WEB_API\BTL_WEB_API_ADMIN\BussinessLayer\obj\Debug\net6.0\BussinessLayer.AssemblyInfo.cs
+D:\Bài kiểm tra\BTL_WEB_API\BTL_WEB_API_ADMIN\BussinessLayer\obj\Debug\net6.0\BussinessLayer.csproj.CoreCompileInputs.cache
+D:\Bài kiểm tra\BTL_WEB_API\BTL_WEB_API_ADMIN\BussinessLayer\bin\Debug\net6.0\BussinessLayer.deps.json
+D:\Bài kiểm tra\BTL_WEB_API\BTL_WEB_API_ADMIN\BussinessLayer\bin\Debug\net6.0\BussinessLayer.dll
+D:\Bài kiểm tra\BTL_WEB_API\BTL_WEB_API_ADMIN\BussinessLayer\bin\Debug\net6.0\BussinessLayer.pdb
+D:\Bài kiểm tra\BTL_WEB_API\BTL_WEB_API_ADMIN\BussinessLayer\bin\Debug\net6.0\DataAccessLayer.dll
+D:\Bài kiểm tra\BTL_WEB_API\BTL_WEB_API_ADMIN\BussinessLayer\bin\Debug\net6.0\Model.dll
+D:\Bài kiểm tra\BTL_WEB_API\BTL_WEB_API_ADMIN\BussinessLayer\bin\Debug\net6.0\DataAccessLayer.pdb
+D:\Bài kiểm tra\BTL_WEB_API\BTL_WEB_API_ADMIN\BussinessLayer\bin\Debug\net6.0\Model.pdb
+D:\Bài kiểm tra\BTL_WEB_API\BTL_WEB_API_ADMIN\BussinessLayer\obj\Debug\net6.0\BussinessLayer.csproj.CopyComplete
+D:\Bài kiểm tra\BTL_WEB_API\BTL_WEB_API_ADMIN\BussinessLayer\obj\Debug\net6.0\BussinessLayer.dll
+D:\Bài kiểm tra\BTL_WEB_API\BTL_WEB_API_ADMIN\BussinessLayer\obj\Debug\net6.0\refint\BussinessLayer.dll
+D:\Bài kiểm tra\BTL_WEB_API\BTL_WEB_API_ADMIN\BussinessLayer\obj\Debug\net6.0\BussinessLayer.pdb
+D:\Bài kiểm tra\BTL_WEB_API\BTL_WEB_API_ADMIN\BussinessLayer\obj\Debug\net6.0\ref\BussinessLayer.dll
+C:\BTL_Web\BTL_Web_API\BussinessLayer\bin\Debug\net6.0\BussinessLayer.deps.json
+C:\BTL_Web\BTL_Web_API\BussinessLayer\bin\Debug\net6.0\BussinessLayer.dll
+C:\BTL_Web\BTL_Web_API\BussinessLayer\bin\Debug\net6.0\BussinessLayer.pdb
+C:\BTL_Web\BTL_Web_API\BussinessLayer\bin\Debug\net6.0\DataAccessLayer.dll
+C:\BTL_Web\BTL_Web_API\BussinessLayer\bin\Debug\net6.0\Model.dll
+C:\BTL_Web\BTL_Web_API\BussinessLayer\bin\Debug\net6.0\DataAccessLayer.pdb
+C:\BTL_Web\BTL_Web_API\BussinessLayer\bin\Debug\net6.0\Model.pdb
+C:\BTL_Web\BTL_Web_API\BussinessLayer\obj\Debug\net6.0\BussinessLayer.csproj.AssemblyReference.cache
+C:\BTL_Web\BTL_Web_API\BussinessLayer\obj\Debug\net6.0\BussinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\BTL_Web\BTL_Web_API\BussinessLayer\obj\Debug\net6.0\BussinessLayer.AssemblyInfoInputs.cache
+C:\BTL_Web\BTL_Web_API\BussinessLayer\obj\Debug\net6.0\BussinessLayer.AssemblyInfo.cs
+C:\BTL_Web\BTL_Web_API\BussinessLayer\obj\Debug\net6.0\BussinessLayer.csproj.CoreCompileInputs.cache
+C:\BTL_Web\BTL_Web_API\BussinessLayer\obj\Debug\net6.0\BussinessLayer.csproj.CopyComplete
+C:\BTL_Web\BTL_Web_API\BussinessLayer\obj\Debug\net6.0\BussinessLayer.dll
+C:\BTL_Web\BTL_Web_API\BussinessLayer\obj\Debug\net6.0\refint\BussinessLayer.dll
+C:\BTL_Web\BTL_Web_API\BussinessLayer\obj\Debug\net6.0\BussinessLayer.pdb
+C:\BTL_Web\BTL_Web_API\BussinessLayer\obj\Debug\net6.0\ref\BussinessLayer.dll

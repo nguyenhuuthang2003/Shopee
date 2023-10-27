@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "zVh7R4Hgddlx2nvpu4zeKYNmSDR1tWXiRxaMYOz2jpA=",
+  "Source": "API_Shopee",
+  "BasePath": "_content/API_Shopee",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
